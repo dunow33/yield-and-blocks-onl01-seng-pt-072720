@@ -11,4 +11,4 @@ end
 
 # call your method here!
 
-hello_t
+puts hello_t
